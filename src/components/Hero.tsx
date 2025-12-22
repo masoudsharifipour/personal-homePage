@@ -15,8 +15,8 @@ export function Hero() {
         <FadeIn>
           <div className="mb-8">
             <div className="w-40 h-40 mx-auto mb-6 rounded-full p-1 bg-gradient-to-br from-blue-500 to-purple-600 shadow-xl shadow-blue-500/20">
-              <img 
-                src="https://images.unsplash.com/photo-1556157382-97eda2d62296?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBtYW4lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjU1MjIxNjB8MA&ixlib=rb-4.1.0&q=80&w=400" 
+              <img
+                src="/images/profile.webp"
                 alt="Masoud Sharifipour"
                 className="w-full h-full rounded-full object-cover bg-slate-800"
               />
